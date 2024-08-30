@@ -17,6 +17,6 @@ I have been interested in design for 4 years and software for 2 years.
  <a href="https://open.spotify.com/user/agghjvwwdvlvcrwr88f8k7rru?si=d90a208c5b864e5b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     
    
-[![Discord Presence]([https://cdn.discordapp.com/attachments/1150346674196197378/1279183656904163348/swapbanner2.png?ex=66d3841d&is=66d2329d&hm=0d0cd4b4551304b390e4cd8bdd972fb892b0a2cafdd2c1545a27ee595fd41260&)](https://discord.com/users/810790996891795456)
+[![Discord Presence]([https://hizliresim.com/ggx5ydp)](https://discord.com/users/810790996891795456)
      
 </p>
