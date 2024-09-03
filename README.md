@@ -6,7 +6,7 @@
 - Let me tell you a little about myself. I'm Berke [swap(swapjpg)](https://github.com/swapjpg) 19 years old, I have always been hungry to learn and improve.
 I have been interested in design for 4 years and software for 2 years.
 
-<img src="https://komarev.com/ghpvc/swapjpg&label=Ziyaretçi%20Sayısı&color=552b75" alt="swapF" />
+<img src="https://komarev.com/ghpvc/?username=TheM4F&label=Ziyaretçi%20Sayısı&color=552b75" alt="swap" />
 
 <h3>🌟 My social media accounts!</h3>
 <p align="left">
