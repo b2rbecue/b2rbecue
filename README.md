@@ -3,10 +3,10 @@
 
 👋 Hello everyone!
 
-- Let me tell you a little about myself. I'm Berke [BBQ(b4rbecue)](https://github.com/b4rbecue) 19 years old, I have always been hungry to learn and improve.
+- Let me tell you a little about myself. I'm Berke [BBQ(b4rbecue)](https://github.com/b2rbecue) 19 years old, I have always been hungry to learn and improve.
 I have been interested in design for 4 years and software for 2 years.
 
-<img src="https://komarev.com/ghpvc/?username=TheM4F&label=Ziyaretçi%20Sayısı&color=552b75" alt="swap" />
+<img src="https://komarev.com/ghpvc/?username=TheM4F&label=Ziyaretçi%20Sayısı&color=552b75" alt="BBQ" />
 
 <h3>🌟 My social media accounts!</h3>
 <p align="left">
