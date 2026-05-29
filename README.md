@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-b2rbecue.github.io-C96FE8?style=for-the-badge&logoColor=white)]
+[![Website](https://img.shields.io/badge/🌐_Website-b2rbecue.github.io-C96FE8?style=for-the-badge&logoColor=white)](https://b2rbecue.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-b2rbecue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2rbecue)
 [![Instagram](https://img.shields.io/badge/Instagram-b2rbecue-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b2rbecue/)
 [![X](https://img.shields.io/badge/X_(Twitter)-b2rbecue-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/b2rbecue)
